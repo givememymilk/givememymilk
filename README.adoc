@@ -1,0 +1,14 @@
+AI 'researcher'. Currently studying for college and learning forth in my free time
+
+'''
+
+= Languages
+
+*NOTE*: These are listed in no particular order
+
+- forth
+- bash
+- scheme (currently testing out chicken and guile)
+- python
+- Javascript (more specifically React, though I can do plain JS (to some extent) as well)
+- C (generally not very good yet, but improving)
