@@ -1,0 +1,24 @@
+= Givememymilk
+
+*Warning: rambling ahead*
+
+Studying in AI major - genuinely not interested in pop-tech chatbot/"assistant"; I'm mostly interested in the math and the tech behind it (although there are some good tools that does fall into the pop-tech catergories, those are evaluated on a case-by-case basis)
+
+= Things that I know
+
+*NOTE: I haven't worked on any big projects - make of that what you will*
+
+== programming languages
+
+* Python - genuinely have a hate boner for it, but the hate is personal - I can use it no problem
+* C/C++ - mostly POSIX stuff
+* javascript - generally decent at it, though knowledge mostly falls into backend stuff (I can do frontend, but I suck at designing interfaces)
+* Bash - very much good at this, and passionate too
+* lua - More or less a DSL, okayish at it (doing projects with it writing some C extensions in the process, it's a great companion with C)
+
+== Toolling
+
+* express - I have a repo dedicated to just express + mongodb, so I'd like to think I know a thing or two about this bad boy
+* mongodb - covered above
+* React - pretty good at it (even though I don't consider my experience with it very enjoyable)
+* Linux admin stuff - longtime linux user, adapts very quickly to linux stuff specifically and just UNIX in general
